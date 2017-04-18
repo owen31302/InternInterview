@@ -1,0 +1,117 @@
+/* ---------------------------------- */
+/* BASIC SETUP */
+/* ---------------------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
+
+header {
+    width: 100%;
+}
+
+nav div p {
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    margin: 4% auto;
+    text-align: center;
+}
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+}
+
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.main-nav li a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.titleImg img {
+  max-width:100%;
+}
+
+section {
+    padding: 80px 0;
+}
+
+.icon {
+    font-size: 80%;
+    color: #d8b776;
+}
+
+.box {
+    padding-right: 17px;
+    padding-left: 17px;
+}
+
+.shadow-box {
+    box-shadow: 0 0 5px;
+    height: 500px;
+}
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.blog-body {
+    max-width: 900px;
+    margin-bottom: 5%;
+}
+
+.weight-change {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 22px;
+}
+
+.social-logo {
+    
+}
+
+.image {
+    
+}
+
+.img-bottom {
+    z-index: 0;    
+}
+
+.img-top {
+    z-index: 1;   
+}
