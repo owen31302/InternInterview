@@ -1,0 +1,18 @@
+official site
+https://doc.scrapy.org/en/latest/topics/media-pipeline.html
+
+English blog
+https://blogs.sequoiainc.com/python-web-crawling-with-scrapy/
+
+git sample
+https://github.com/twtrubiks/PttImageSpider
+
+more refs
+http://www.jianshu.com/p/d4f60814fd1f
+http://aljun.me/post/6
+http://www.cocloud.net/2013/09/10/scrapy_img_spider.html
+http://www.cnblogs.com/qiyeboy/p/5449266.html
+http://mazih.com/post/cibuwb7bu0000rfa2m169vzv9/
+https://segmentfault.com/a/1190000003870052
+https://gudabai.github.io/2016/07/10/meizituspider/
+http://codingpy.com/article/scrapy-01-meizitu/
